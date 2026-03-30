@@ -25,6 +25,7 @@ a.button {
     display: block;
     width: 150px;
     text-align: center;
+    font-weight: 700;
 }
 
 a:hover {
