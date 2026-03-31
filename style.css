@@ -28,6 +28,7 @@ a.button {
     width: 150px;
     text-align: center;
     font-weight: 700;
+    flex-shrink: 0;
 }
 
 a:hover {
