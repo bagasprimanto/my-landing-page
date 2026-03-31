@@ -180,7 +180,7 @@ h2 {
     justify-content: space-between;
     align-items: center;
     gap: 32px;
-    padding: 36px 64px;
+    padding: 42px 64px;
     width: 70%;
     border-radius: 8px;
     margin: 84px auto;
@@ -198,4 +198,13 @@ h2 {
 
 a.white-border {
     border: 2px solid white;
+}
+
+/* Footer */
+
+footer {
+    background-color: #1F2937;
+    color: white;
+    padding: 32px;
+    text-align: center;
 }
